@@ -3,7 +3,7 @@
 from dna_class import DNA
 
 with open(r"C:\Users\sathy\OneDrive\Desktop\DNA Sequence Analysis\DNA_Sequences.txt") as infile, \
-    open(r"C:\Users\sathy\OneDrive\Desktop\DNA Sequence Analysis\DNA_Analysis_report.txt", "w") as report:
+    open(r"C:\Users\sathy\OneDrive\Desktop\DNA Sequence Analysis\Reports\DNA_Analysis_report.txt", "w") as report:
 
     report.write("DNA SEQUENCES ANALYSIS REPORT\n")
     report.write("===============================\n\n")
