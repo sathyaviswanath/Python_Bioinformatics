@@ -1,0 +1,70 @@
+DNA SEQUENCES ANALYSIS REPORT
+===============================
+
+Sequence: 1: ATGCGATCGATCG
+Length: 13
+Reverse seq: GCTAGCTAGCGTA
+GC%: 53.85
+RNA Sequence: AUGCGAUCGAUCG
+Nucleotide counts: {'A': 3, 'T': 3, 'G': 4, 'C': 3}
+Start codon: Start codon found
+Stop codon: No stop codon
+-------------------------------------------------
+Sequence: 2: ATGCGCGCGCGC
+Length: 12
+Reverse seq: CGCGCGCGCGTA
+GC%: 83.33
+RNA Sequence: AUGCGCGCGCGC
+Nucleotide counts: {'A': 1, 'T': 1, 'G': 5, 'C': 5}
+Start codon: Start codon found
+Stop codon: No stop codon
+-------------------------------------------------
+Sequence: 3: TTTTAAAAGGGG
+Length: 12
+Reverse seq: GGGGAAAATTTT
+GC%: 33.33
+RNA Sequence: UUUUAAAAGGGG
+Nucleotide counts: {'A': 4, 'T': 4, 'G': 4, 'C': 0}
+Start codon: Start codon not found
+Stop codon: Stop codon found
+-------------------------------------------------
+Sequence: 4: ATGCATGCATGC
+Length: 12
+Reverse seq: CGTACGTACGTA
+GC%: 50.0
+RNA Sequence: AUGCAUGCAUGC
+Nucleotide counts: {'A': 3, 'T': 3, 'G': 3, 'C': 3}
+Start codon: Start codon found
+Stop codon: No stop codon
+-------------------------------------------------
+Sequence 5: ATGXCGATCG
+Status: INVALID DNA SEQUENCE
+-----------------------------------------
+Sequence: 6: ATGATGATGA
+Length: 10
+Reverse seq: AGTAGTAGTA
+GC%: 30.0
+RNA Sequence: AUGAUGAUGA
+Nucleotide counts: {'A': 4, 'T': 3, 'G': 3, 'C': 0}
+Start codon: Start codon found
+Stop codon: Stop codon found
+-------------------------------------------------
+Sequence: 7: CCCCGGGGTTAA
+Length: 12
+Reverse seq: AATTGGGGCCCC
+GC%: 66.67
+RNA Sequence: CCCCGGGGUUAA
+Nucleotide counts: {'A': 2, 'T': 2, 'G': 4, 'C': 4}
+Start codon: Start codon not found
+Stop codon: Stop codon found
+-------------------------------------------------
+
+=====================================
+FINAL SUMMARY
+=====================================
+Total Sequences : 7
+Valid Sequences : 6
+Invalid Sequences : 1
+Highest GC% : 83.33
+Lowest GC% : 30.0
+Average GC% : 52.86
