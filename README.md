@@ -1,4 +1,4 @@
-# DNA Sequence Analysis
+# DNA Sequence Analysis tool using Python
 
 ## Overview
 
